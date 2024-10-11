@@ -1,6 +1,6 @@
 # Subte
 
-## Integrantes:
+Integrantes:
 
 - Casais, Francisco
 - Eberle, Lautaro
